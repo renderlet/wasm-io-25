@@ -14,7 +14,7 @@ To run the 3D buildings / lighting demo, please contact info@renderlet.com.
 
 To run the Plugin / Adria example:
 1. Use this [fork/branch](https://github.com/MendyBerger/Adria-DX12/tree/camera-position) of Adria.
-2. Build the plugin guest from the [branch here](github.com/renderlet/glb-to-webgpu/blob/renderlet-plugin-runtime-camera-pos).
+2. Build the plugin guest from the [branch here](https://github.com/renderlet/glb-to-webgpu/blob/renderlet-plugin-runtime-camera-pos).
 3. Use the prebuilt [plugin runtime here](https://rlt-playground.azureedge.net/public/onnx_basic_test_component.wasm).
 4. Replace any paths in main.cpp in Adria to the plugin runtime dll and plugin guest wasm to your paths (and any necessary .h includes).
 5. Note the plugin runtime is source-available. Please contact info@renderlet.com for more information.
